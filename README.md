@@ -207,37 +207,24 @@ The analysis shows that Paris Airbnb revenue is driven primarily by demand quali
 
 ## Business Recommendations
 
-1. Prioritize demand conversion over expanding supply
 
-With only 58.6% of available days converting into reserved days, marketplace performance is constrained by booking conversion rather than inventory scarcity. Efforts should focus on improving demand quality and
-conversion (e.g., trust, pricing clarity, booking policies) rather than increasing listing volume.
+1. Prioritize demand conversion over expanding supply  
+   With only 58.6% of available days converting into reserved days, marketplace performance is constrained by booking conversion rather than inventory scarcity. Efforts should focus on improving demand quality and conversion (e.g., trust, pricing clarity, booking policies) rather than increasing listing volume.
 
-2. Focus performance optimization on dominant revenue segments
+2. Focus performance optimization on dominant revenue segments  
+   Entire rental units generate approximately 76% of total marketplace revenue, yet also exhibit declining short-term revenue momentum. Because these segments drive the majority of revenue, even small improvements in pricing, trust, or booking efficiency within them are likely to have a larger impact than growth initiatives targeting smaller segments.
 
-Entire rental units generate approximately 76% of total marketplace revenue, yet also exhibit declining short-term revenue momentum. Because these segments drive the majority of revenue, even small improvements
-in pricing, trust, or booking efficiency within them are likely to have a larger impact than growth initiatives targeting smaller segments.
+3. Use differentiated success metrics by segment rather than uniform targets  
+   Occupancy and RevPAR vary meaningfully by room type, trust tier, and pricing tier. Applying a single performance benchmark across all listings risks misinterpreting results. Segment-specific benchmarks (separate targets for entire homes vs private rooms) would better reflect underlying economic differences.
 
-3. Use differentiated success metrics by segment rather than uniform targets
+4. Treat trust as a revenue efficiency lever, not just a quality metric  
+   High Trust listings consistently outperform the market on RevPAR, occupancy, and revenue per available day, while Low Trust listings underperform across all metrics. Improving trust signals (ratings, review volume, guest experience consistency) should be viewed as a revenue optimization lever rather than solely a reputation metric.
 
-Occupancy and RevPAR vary meaningfully by room type, trust tier, and pricing tier. Applying a single performance benchmark across all listings risks misinterpreting results. Segment-specific benchmarks
-   (separate targets for entire homes vs private rooms) would better reflect underlying economic differences.
+5. Evaluate pricing strategy using revenue efficiency, not occupancy alone  
+   Pricing tiers show similar occupancy levels across the market, while revenue differences are driven by price and RevPAR. Pricing decisions should therefore be evaluated primarily on revenue per available day rather than booking volume, to avoid optimizing for occupancy at the expense of revenue.
 
-4. Treat trust as a revenue efficiency lever, not just a quality metric
+6. Encourage booking behaviors associated with demand stability  
+   Bookings made further in advance and longer stays are associated with higher occupancy and stronger daily revenue. Where possible, policies and pricing structures that support earlier bookings and longer stays can help stabilize demand and improve revenue predictability.
 
-High Trust listings consistently outperform the market on RevPAR, occupancy, and revenue per available day, while Low Trust listings underperform across all metrics. Improving trust signals
-(ratings, review volume, guest experience consistency) should be viewed as a revenue optimization lever rather than solely a reputation metric.
-
-5. Evaluate pricing strategy using revenue efficiency, not occupancy alone
-
-Pricing tiers show similar occupancy levels across the market, while revenue differences are driven by price and RevPAR. Pricing decisions should therefore be evaluated primarily on revenue per available day
-rather than booking volume, to avoid optimizing for occupancy at the expense of revenue.
-
-6. Encourage booking behaviors associated with demand stability
-
-Bookings made further in advance and longer stays are associated with higher occupancy and stronger daily revenue. Where possible, policies and pricing structures that support earlier bookings and longer stays
-can help stabilize demand and improve revenue predictability.
-
-7. Reassess minimum-night and fee policies with a trade-off lens
-
-Minimum-night requirements and cleaning fees show clear trade-offs between occupancy and revenue efficiency. Mid-range minimum-night policies and appropriately positioned fees appear to balance demand and
-revenue more effectively than extremes, suggesting these policies should be reviewed with both metrics in mind rather than in isolation.
+7. Reassess minimum-night and fee policies with a trade-off lens  
+   Minimum-night requirements and cleaning fees show clear trade-offs between occupancy and revenue efficiency. Mid-range minimum-night policies and appropriately positioned fees appear to balance demand and revenue more effectively than extremes, suggesting these policies should be reviewed with both metrics in mind rather than in isolation.
