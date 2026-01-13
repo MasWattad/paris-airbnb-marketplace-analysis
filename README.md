@@ -5,7 +5,7 @@ marketplace performance, understand how demand and revenue behave across the mar
 
 ---
 
-## Technology Stack
+## Technology 
 
 - SQL (SQLite)
 - DB Browser for SQLite (local development and query execution)
@@ -67,12 +67,6 @@ Views supporting Price, Fees & Booking Dynamics.
 
 ---
 
-## Repository Structure
-
-- Power BI dashboards: ./powerbi/  
-- SQL scripts: ./sql/  
-
----
 
 ## Data Structure & Sources
 
@@ -115,10 +109,7 @@ Dataset source: https://www.airroi.com/data-portal/markets/paris-france
 
 ## Overview of Findings
 
-The analysis shows that Paris Airbnb revenue is driven primarily by demand quality rather than listing availability, with revenue closely tracking occupancy and exhibiting clear seasonality. Performance is highly
-concentrated in a small number of dominant listing segments, meaning overall marketplace outcomes are shaped mainly by changes within these segments rather than offset by growth in smaller categories. Trust and 
-booking dynamics further differentiate performance, as higher-trust listings consistently achieve stronger occupancy and materially higher revenue efficiency, while pricing differences affect revenue primarily 
-through efficiency rather than booking volume.
+The analysis shows that Paris Airbnb revenue is driven primarily by demand quality rather than listing availability, with revenue closely tracking occupancy and exhibiting clear seasonality. Performance is highly concentrated in a small number of dominant listing segments, meaning overall marketplace outcomes are shaped mainly by changes within these segments rather than offset by growth in smaller categories. Trust and booking dynamics further differentiate performance, as higher-trust listings consistently achieve stronger occupancy and materially higher revenue efficiency, while pricing differences affect revenue primarily through efficiency rather than booking volume.
 
 ---
 
@@ -147,10 +138,10 @@ Revenue differences across tiers are therefore driven primarily by price and Rev
 Recent revenue momentum pressure is concentrated in the largest revenue-driving segments.  
 Most major listing and room-type segments show negative revenue momentum, including entire rental units at −16.4%, while segments with positive momentum represent a relatively small share of total revenue. 
 As a result, short-term marketplace performance is primarily influenced by changes within dominant segments rather than offset by growth in smaller categories.
-
+![Marketplace Performance Dashboard](Marketplace_dash_picture.png)
 ---
 
-## Marketplace Trust & Guest Experience Insights (Dashboard 2)
+## Key Insights Marketplace Trust & Guest Experience Insights (Dashboard 2)
 
 1. Marketplace trust level is high, but performance varies meaningfully by trust tier
 
@@ -199,7 +190,7 @@ The Review Trends by Trust Tier chart shows that High and Medium Trust listings 
 
 ---
 
-## Pricing, Fees & Booking Dynamics Insights (Dashboard 3)
+## Key Insights Pricing, Fees & Booking Dynamics Insights (Dashboard 3)
 
 1. Market-wide revenue efficiency is moderate relative to pricing levels
 
