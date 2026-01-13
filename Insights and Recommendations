@@ -33,15 +33,17 @@ Key Insights — Marketplace Performance (Dashboard 1)
  Key Insights Marketplace Trust & Guest Experience Insights (Dashboard 2)
 
 1. Marketplace trust level is high, but performance varies meaningfully by trust tier 
-   The Marketplace Trust Index is 4.74, indicating that the average listing in the market is highly rated. However, the tiered performance visuals show that this aggregate masks substantial differences in occupancy and revenue efficiency between High, Medium, and Low Trust listings.
+   The Marketplace Trust Index is 4.74, indicating that the average listing in the market is highly rated. However, the tiered performance visuals show that this
+   aggregate masks substantial differences in occupancy and revenue efficiency between High, Medium, and Low Trust listings.
 
 2. Demand persistence is strong overall, but does not offset trust-related performance gaps 
-   The Demand Persistence KPI shows that 87.45% of listings receive reviews in more than one month, indicating repeat demand at the market level. Despite this, trust-tier charts show that listings with lower trust consistently underperform on revenue efficiency and occupancy, suggesting persistence alone does not equal strong monetization.
+   The Demand Persistence KPI shows that 87.45% of listings receive reviews in more than one month, indicating repeat demand at the market level. Despite this, 
+   trust-tier charts show that listings with lower trust consistently underperform on revenue efficiency and occupancy, suggesting persistence alone does not 
+   equal strong monetization.
 
 3. Occupancy differs materially across trust tiers
-   The Occupancy by Trust Tier chart shows that High Trust listings have visibly higher average occupancy than Low Trust listings, with Medium Trust closely tracking High Trust. The gap is most pronounced between Low Trust and the other tiers, indicating that lower trust is associated with weaker demand conversion.
-
-   (This insight is drawn directly from the trust-tier occupancy bar chart, not from additional calculations.)
+   The Occupancy by Trust Tier chart shows that High Trust listings have visibly higher average occupancy than Low Trust listings, with Medium Trust closely 
+   tracking High Trust. The gap is most pronounced between Low Trust and the other tiers, indicating that lower trust is associated with weaker demand conversion.
 
 4. Revenue efficiency increases steadily with trust level
    Both the RevPAR by Trust Tier and Revenue per Available Day visuals show a clear ordering:  
@@ -52,46 +54,61 @@ Key Insights — Marketplace Performance (Dashboard 1)
    This pattern indicates that higher trust is associated with more efficient revenue generation from available inventory.
 
 5. Low Trust listings underperform on revenue efficiency despite contributing supply
-   The Revenue per Available Day and Trust Impact vs Market visuals show that Low Trust listings generate significantly lower revenue per available day than the market average. This indicates that simply being available in the marketplace does not translate into revenue without sufficient trust signals.
+   The Revenue per Available Day and Trust Impact vs Market visuals show that Low Trust listings generate significantly lower revenue per available day than 
+   the market average. This indicates that simply being available in the marketplace does not translate into revenue without sufficient trust signals.
 
 6. Trust-related performance gaps persist relative to the market baseline 
    The Trust Impact vs Market chart shows that:  
    High Trust listings outperform the market average on RevPAR, adjusted occupancy, and revenue per available day  
    Medium Trust listings perform slightly below market levels  
    Low Trust listings show a clear negative delta across all three metrics  
-
    This confirms that trust is not only correlated with performance, but is associated with systematic performance differences relative to the overall market.
 
 7. Review activity reinforces the trust–performance relationship  
-   The Review Trends by Trust Tier chart shows that High and Medium Trust listings consistently receive more reviews per month than Low Trust listings. This aligns with higher observed occupancy and revenue efficiency, reinforcing the link between guest engagement and performance outcomes.
+   The Review Trends by Trust Tier chart shows that High and Medium Trust listings consistently receive more reviews per month than Low Trust listings. 
+   This aligns with higher observed occupancy and revenue efficiency, reinforcing the link between guest engagement and performance outcomes.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Insights Pricing, Fees & Booking Dynamics Insights (Dashboard 3)
 
 1. Market-wide revenue efficiency is moderate relative to pricing levels
-   The average daily rate across the market is €216, while average RevPAR is €79.3 at an average adjusted occupancy of 36.7%. This gap indicates that a large portion of listed price is not realized due to partial occupancy, highlighting that revenue outcomes are driven by both pricing and demand realization rather than price alone.
+   The average daily rate across the market is €216, while average RevPAR is €79.3 at an average adjusted occupancy of 36.7%. This gap indicates that a large 
+   portion of listed price is not realized due to partial occupancy, highlighting that revenue outcomes are driven by both pricing and demand realization rather 
+   than price alone.
 
 2. Higher-priced listings account for a disproportionate share of total revenue 
-   The Price Tier Percentiles chart shows that the top price tercile (average ADR €381) generates €4.94M in total revenue, compared to €2.45M for the middle tier and €1.32M for the lowest tier. This indicates that higher-priced listings contribute the majority of marketplace revenue despite representing a similar number of listings.
+   The Price Tier Percentiles chart shows that the top price tercile (average ADR €381) generates €4.94M in total revenue, compared to €2.45M for the middle tier
+   and €1.32M for the lowest tier. This indicates that higher-priced listings contribute the majority of marketplace revenue despite representing a similar number
+   of listings.
 
 3. Occupancy remains relatively stable across pricing tiers
-   Adjusted occupancy is similar across low, mid, and high price tiers, clustering around the mid-30% range. This suggests that, at the aggregate level, higher prices do not materially suppress booking volume, and revenue differences across tiers are primarily driven by price and RevPAR rather than demand frequency.
+   Adjusted occupancy is similar across low, mid, and high price tiers, clustering around the mid-30% range. This suggests that, at the aggregate level, higher 
+   prices do not materially suppress booking volume, and revenue differences across tiers are primarily driven by price and RevPAR rather than demand frequency.
 
 4. Cleaning fee levels are associated with meaningful differences in revenue efficiency**  
-   The Cleaning Fee vs RevPAR chart shows a clear gradient in revenue efficiency. Listings with high cleaning fees (100+) achieve the highest average RevPAR (€154), while listings with no or low cleaning fees cluster around €56–57 RevPAR. This indicates that higher cleaning fees tend to appear alongside listings that generate materially higher revenue per available day.
+   The Cleaning Fee vs RevPAR chart shows a clear gradient in revenue efficiency. Listings with high cleaning fees (100+) achieve the highest average RevPAR (€154),
+   while listings with no or low cleaning fees cluster around €56–57 RevPAR. This indicates that higher cleaning fees tend to appear alongside listings that 
+   generate materially higher revenue per available day.
 
 5. Extra guest fees show limited impact on occupancy outcomes  
-   The Extra Guest Fee vs Occupancy chart shows only minor variation in adjusted occupancy across fee levels, with occupancy remaining in a narrow range regardless of whether an extra guest fee is applied. This suggests that extra guest fees do not materially influence booking likelihood at the market level.
+   The Extra Guest Fee vs Occupancy chart shows only minor variation in adjusted occupancy across fee levels, with occupancy remaining in a narrow range 
+   regardless of whether an extra guest fee is applied. This suggests that extra guest fees do not materially influence booking likelihood at the market level.
 
 6. Booking lead time is strongly associated with demand quality 
-   The Lead Time Segments chart shows that bookings made 31+ days in advance achieve the highest average occupancy (65.4%) and strong daily revenue, while last-minute bookings (0–3 days) show substantially lower occupancy (26.4%). This indicates that earlier bookings are associated with more stable and predictable demand outcomes.
+   The Lead Time Segments chart shows that bookings made 31+ days in advance achieve the highest average occupancy (65.4%) and strong daily revenue, while 
+   last-minute bookings (0–3 days) show substantially lower occupancy (26.4%). This indicates that earlier bookings are associated with more stable and
+   predictable demand outcomes.
 
 7. Longer stays are associated with higher occupancy and revenue per day 
-   The Length of Stay Segments chart shows that bookings of 8+ nights achieve the highest average occupancy (68.5%) and the highest average daily revenue (€4,695), while short stays of 1–2 nights show materially lower occupancy and revenue. This indicates that longer stays contribute to both demand stability and stronger revenue realization.
+   The Length of Stay Segments chart shows that bookings of 8+ nights achieve the highest average occupancy (68.5%) and the highest average daily revenue (€4,695),
+   while short stays of 1–2 nights show materially lower occupancy and revenue. This indicates that longer stays contribute to both demand stability and stronger 
+   revenue realization.
 
 8. Minimum-night policies reflect a trade-off between occupancy and revenue efficiency 
-   The Minimum Nights Policy chart shows that listings with stricter minimum-night requirements (14+ nights) achieve relatively high occupancy (~39%) but significantly lower RevPAR (€35), while short minimum-night listings (1 night) show higher RevPAR (€94) but lower occupancy (~24%). Mid-range minimum-night policies (2–6 nights) balance occupancy and RevPAR more effectively at the market level.
+   The Minimum Nights Policy chart shows that listings with stricter minimum-night requirements (14+ nights) achieve relatively high occupancy (~39%) but
+   significantly lower RevPAR (€35), while short minimum-night listings (1 night) show higher RevPAR (€94) but lower occupancy (~24%). Mid-range minimum-night 
+   policies (2–6 nights) balance occupancy and RevPAR more effectively at the market level.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
