@@ -151,7 +151,6 @@ The analysis shows that Paris Airbnb revenue is driven primarily by demand quali
 **3. Occupancy differs materially across trust tiers**  
    The Occupancy by Trust Tier chart shows that High Trust listings have visibly higher average occupancy than Low Trust listings, with Medium Trust closely tracking High Trust. The gap is most pronounced between Low Trust and the other tiers, indicating that lower trust is associated with weaker demand conversion.
 
-   (This insight is drawn directly from the trust-tier occupancy bar chart, not from additional calculations.)
 
 **4. Revenue efficiency increases steadily with trust level**  
    Both the RevPAR by Trust Tier and Revenue per Available Day visuals show a clear ordering:  
