@@ -138,6 +138,7 @@ Revenue differences across tiers are therefore driven primarily by price and Rev
 Recent revenue momentum pressure is concentrated in the largest revenue-driving segments.  
 Most major listing and room-type segments show negative revenue momentum, including entire rental units at −16.4%, while segments with positive momentum represent a relatively small share of total revenue. 
 As a result, short-term marketplace performance is primarily influenced by changes within dominant segments rather than offset by growth in smaller categories.
+
 ![Marketplace Performance Dashboard](Marketplace_dash_picture.png)
 ---
 
@@ -187,7 +188,8 @@ This confirms that trust is not only correlated with performance, but is associa
 
 The Review Trends by Trust Tier chart shows that High and Medium Trust listings consistently receive more reviews per month than Low Trust listings. This aligns with higher observed occupancy and revenue
  efficiency, reinforcing the link between guest engagement and performance outcomes.
-
+ 
+![Trust & Guest Experience Dashboard](Trust_dash_picture.png)
 ---
 
 ## Key Insights Pricing, Fees & Booking Dynamics Insights (Dashboard 3)
@@ -231,6 +233,7 @@ lower occupancy and revenue. This indicates that longer stays contribute to both
 The Minimum Nights Policy chart shows that listings with stricter minimum-night requirements (14+ nights) achieve relatively high occupancy (~39%) but significantly lower RevPAR (€35), while short minimum-night
 listings (1 night) show higher RevPAR (€94) but lower occupancy (~24%). Mid-range minimum-night policies (2–6 nights) balance occupancy and RevPAR more effectively at the market level.
 
+![Pricing & Booking Behavior Dashboard](pricing_dash_picture.png)
 ---
 
 ## Business Recommendations
